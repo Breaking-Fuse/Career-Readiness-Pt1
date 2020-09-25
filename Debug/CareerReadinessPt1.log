@@ -1,0 +1,4 @@
+﻿  CareerReadinessPt1.cpp
+C:\Users\David\source\repos\CareerReadinessPt1\CareerReadinessPt1.cpp(61,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\David\source\repos\CareerReadinessPt1\CareerReadinessPt1.cpp(61,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CareerReadinessPt1.vcxproj -> C:\Users\David\source\repos\CareerReadinessPt1\Debug\CareerReadinessPt1.exe
